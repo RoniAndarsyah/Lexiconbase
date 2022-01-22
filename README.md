@@ -1,30 +1,24 @@
 # lexiconBased_SA_NL
-Code to perform lexicon-based sentiment analysis on a Dutch dataset
+Kode untuk melakukan analisis sentimen berbasis leksikon pada kumpulan data Dutch
 
-This folder contains code to perform lexicon-based sentiment analysis on Dutch data.
-Requirements:
-* Install CRF++ in your virtual env
-* Make sure to a local copy of the Lets Preprocess (https://github.ugent.be/lt3/lets) folder to your Pythonpath
-* See pipfile
+Folder ini berisi kode untuk melakukan analisis sentimen berbasis leksikon pada data Dutch.
+Persyaratan:
+* Instal CRF++ di virtual env . Anda
+* Pastikan salinan lokal folder Lets Preprocess (https://github.ugent.be/lt3/lets) ke Pythonpath Anda
+* Lihat pipfile
 
 ## General  info
-* Sentence boundaries in the input text should be indicated with the '[EOS]' token.
-* Negation is taken into account (check the words in the negation list on top of the script)
-* Gold standard sentiment labels should pertain to the following: 'very_negative', 'negative', 'positive', 'very_positive', 'neutral', 'objective'
-* The system outputs a numeric sentiment score per sentence and maps this to pos/neg/neu to calculate the accuracy.
-* SA accuracy is printed in the terminal; if you want to re-calculate it using the outfile, you'll need to map the scores to -1, 0.0 and 1, as is done by the script.
-* **!! The script predicts sentiment scores at the sentence level; you decide how you aggregate for post-level predictions.**
+* Batas kalimat dalam teks masukan harus ditunjukkan dengan token '[EOS]'.
+* Negasi diperhitungkan (periksa kata-kata dalam daftar negasi di atas skrip)
+* Label sentimen standar harus berkaitan dengan yang berikut: 'sangat_negatif', 'negatif', 'positif', 'sangat_positif', 'netral', 'objektif'
+* Sistem mengeluarkan skor sentimen numerik per kalimat dan memetakannya ke pos/neg/neu untuk menghitung akurasi.
+* Akurasi SA dicetak di terminal; jika Anda ingin menghitung ulang menggunakan outfile, Anda harus memetakan skor ke -1, 0.0 dan 1, seperti yang dilakukan oleh skrip.
+* **!! Script memprediksi skor sentimen pada tingkat kalimat; Anda memutuskan bagaimana Anda menggabungkan prediksi pasca-level.**
 
+Leksikon yang digunakan bersifat generik, sehingga kode dapat dijalankan pada beberapa jenis genre teks (media sosial, blog, teks surat kabar, resensi,...).
+Ada empat leksika Dutch yang digunakan --> hanya entri dengan tag-PoS berikut yang dipertimbangkan: ADJ, WW, BW, N
 
-The lexicons that are used are generic, so the code can be run on several types of text genres (social media, blogs, newspaper text, reviews,...).
-There are four Dutch lexica used --> only entries with the following PoS-tags are considered: ADJ, WW, BW, N
-	1. Duoman: 8,757 wordforms (Jijkoun, 2009)
-	2. Pattern: 3,223 qualitative adjectives (Desmedt, 2012)
-	3. NRC Hashtag lexicon: 13,683 wordforms (Mohammad, 2013) > automatically translated from English.
-	4. In-house sentiment lexicon (constructed by Orphée De Clercq): 434 wordforms
-All of them were manually revised by a job student (Annaïs Airapetian) in the summer of 2019.
-
-The lexica are searched in a specific order; i.e. if a given word is not found in lexicon 1, it is searched for in lexicon 2, etc. If a word was found in lexicon 1, then no further lookup in lexicon 2, 3 and 4 is done. This order is experimentally determined by Cynthia Van Hee; the purpose of these experiments was finding out which lexicon is the most reliable for sentiment analysis in an order from best to last.
+Leksika dicari dalam urutan tertentu; yaitu jika kata yang diberikan tidak ditemukan dalam leksikon 1, maka akan dicari dalam leksikon 2, dll. Jika sebuah kata ditemukan dalam leksikon 1, maka pencarian lebih lanjut pada leksikon 2, 3 dan 4 tidak dilakukan. Urutan ini ditentukan secara eksperimental; tujuan percobaan ini adalah mencari tahu leksikon mana yang paling dapat diandalkan untuk analisis sentimen dalam urutan dari yang terbaik hingga yang terakhir.
 
 ## Script input
 * Path to the input file; a tab-separated file wih a gold-standard label and the text to be analyzed (1 instance = 1 line; make sure to replace newlines within a post with '[EOS]' to indicate sentence boundaries!)
