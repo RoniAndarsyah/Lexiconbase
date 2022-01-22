@@ -28,3 +28,5 @@ Leksika dicari dalam urutan tertentu; yaitu jika kata yang diberikan tidak ditem
 	* A tab-separated file with the gold label, the predicted label and the original text. Format: 1 sentence per line, instances are separated by empty lines.
 	* A .txt file with all the sentiment words that were matched against the sentiment lexica (for qualitative analysis purposes).
 
+## Selamat Mencoba
+* jangan lupa berdoa dulu ya gaissssss
