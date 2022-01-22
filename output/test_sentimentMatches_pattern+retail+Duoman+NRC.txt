@@ -1,0 +1,110 @@
+SENTIMENT WORD	SENTIMENT VALUE	POS-TAG	LEXICON	TEXT
+heel	0.133333333333	ADJ	pattern	Een heel leuk en nuttig initiatief !
+leuk	0.6	ADJ	pattern	Een heel leuk en nuttig initiatief !
+nuttig	0.6	ADJ	pattern	Een heel leuk en nuttig initiatief !
+initiatief	1.0	N	retail	Een heel leuk en nuttig initiatief !
+gaf	1.0	WW	Duoman	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+voldoening	1.0	N	Duoman	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+kunnen	1.0	WW	Duoman	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+aanwenden	0.0	WW	NRC	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+goed	0.55	ADJ	pattern	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+doel	0.0	N	NRC	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+heb	0.0	WW	Duoman	Ik heb het Business Attire-programma aangevraagd en was heel tevreden .
+was	0.0	WW	Duoman	Ik heb het Business Attire-programma aangevraagd en was heel tevreden .
+heel	0.133333333333	ADJ	pattern	Ik heb het Business Attire-programma aangevraagd en was heel tevreden .
+tevreden	0.4	ADJ	pattern	Ik heb het Business Attire-programma aangevraagd en was heel tevreden .
+communicatie	0.0	N	NRC	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+verliep	0.0	WW	NRC	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+vlot	0.375	ADJ	pattern	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+wensen	1.0	N	Duoman	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+gerespecteerd	0.0	WW	NRC	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+nieuwe	0.15	ADJ	pattern	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+kan	1.0	WW	Duoman	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+vol	0.3	ADJ	pattern	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+vertrouwen	1.0	N	retail	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+gaan	0.0	WW	Duoman	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+werken	0.0	WW	Duoman	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+ben	0.0	WW	Duoman	Ik ben zo verliefd op mijn Bernadette cardigan dat ik hem niet meer wil uittrekken !
+verliefd	0.9	ADJ	pattern	Ik ben zo verliefd op mijn Bernadette cardigan dat ik hem niet meer wil uittrekken !
+cardigan	0.0	N	NRC	Ik ben zo verliefd op mijn Bernadette cardigan dat ik hem niet meer wil uittrekken !
+wil	0.0	WW	Duoman	Ik ben zo verliefd op mijn Bernadette cardigan dat ik hem niet meer wil uittrekken !
+Heerlijke	0.6	ADJ	pattern	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+kwaliteit	1.0	N	retail	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+prachtige	1.0	ADJ	pattern	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+kleur	0.0	N	NRC	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+gaat	0.0	WW	Duoman	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+beter	-0.55	ADJ	pattern	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+kledingstuk	0.0	N	NRC	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+kunnen	1.0	WW	Duoman	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+wensen	1.0	WW	Duoman	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+frisse	0.5	ADJ	pattern	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+fijne	0.4	ADJ	pattern	Wat een fijne service biedt Whiskered friends !
+service	1.0	N	Duoman	Wat een fijne service biedt Whiskered friends !
+biedt	0.0	WW	Duoman	Wat een fijne service biedt Whiskered friends !
+vakantie	1.0	N	NRC	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+ging	0.0	WW	Duoman	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+wou	0.0	WW	Duoman	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+lieve	0.633333333333	ADJ	pattern	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+hele	0.133333333333	ADJ	pattern	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+tijd	0.0	N	NRC	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+heb	0.0	WW	Duoman	Ik heb meerdere kattenopvangen bezocht , maar deze stak er zeker bovenuit !
+zeker	0.3	ADJ	pattern	Ik heb meerdere kattenopvangen bezocht , maar deze stak er zeker bovenuit !
+lieve	0.633333333333	ADJ	pattern	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+heeft	0.0	WW	Duoman	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+echt	0.2	ADJ	pattern	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+hart	1.0	N	Duoman	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+katten	0.0	N	NRC	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+was	0.0	WW	Duoman	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+helemaal	0.5	BW	NRC	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+weken	0.0	N	NRC	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+later	-0.3	ADJ	pattern	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+kwam	0.0	WW	Duoman	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+Zeker	0.3	ADJ	pattern	Zeker een aanrader !
+aanrader	1.0	N	retail	Zeker een aanrader !
+week	0.0	N	NRC	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+was	0.0	WW	Duoman	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+heerlijk	-0.6	ADJ	pattern	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+was	0.0	WW	Duoman	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+echt	0.2	ADJ	pattern	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+ontdekking	1.0	N	NRC	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+hebben	0.0	WW	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+moed	2.0	N	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+gegeven	1.0	WW	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+gevoelens	0.0	N	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+praten	0.0	WW	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+ouders	0.0	N	NRC	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+voel	0.0	WW	NRC	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+stukken	-1.0	N	Duoman	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+beter	0.55	ADJ	pattern	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+ben	0.0	WW	Duoman	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+terug	0.0	BW	NRC	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+was	0.0	WW	Duoman	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+twijfel	-1.0	N	Duoman	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+beste	0.55	ADJ	pattern	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+reis	0.25	N	NRC	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+heb	0.0	WW	Duoman	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+gedaan	1.0	WW	Duoman	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+was	0.0	WW	Duoman	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+zenuwachtig	-0.4	ADJ	pattern	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+eigenlijk	0.0	ADJ	pattern	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+was	0.0	WW	Duoman	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+was	0.0	WW	Duoman	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+dag	0.0	N	Duoman	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+top	1.0	N	retail	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+heb	0.0	WW	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+echt	0.2	ADJ	pattern	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+leuke	0.6	ADJ	pattern	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+mensen	0.0	N	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+leren	0.0	WW	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+hebben	0.0	WW	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+avonden	0.0	N	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+beleefd	1.0	WW	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+moment	0.0	N	NRC	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+zorgen	2.0	N	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+maken	0.0	WW	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+ziekte	-1.0	N	Duoman	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+hebben	0.0	WW	Duoman	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .
+aantal	0.0	N	NRC	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .
+meisjes	0.0	N	Duoman	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .
+reis	0.25	N	NRC	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .
+doen	1.0	WW	Duoman	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .

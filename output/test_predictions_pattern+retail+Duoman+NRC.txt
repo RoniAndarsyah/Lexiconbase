@@ -1,0 +1,27 @@
+GOLD	PREDICTED	TEXT
+1.0	2.333333333333	Een heel leuk en nuttig initiatief !
+1.0	3.55	Het gaf mij veel voldoening mijn talenkennis te kunnen aanwenden voor een goed doel .
+
+1.0	0.533333333333	Ik heb het Business Attire-programma aangevraagd en was heel tevreden .
+1.0	1.375	De communicatie verliep vlot en al mijn wensen werden gerespecteerd .
+1.0	2.45	Met mijn nieuwe outfits kan ik nu vol vertrouwen gaan werken !
+
+1.0	0.9	Ik ben zo verliefd op mijn Bernadette cardigan dat ik hem niet meer wil uittrekken !
+1.0	2.6	Heerlijke kwaliteit , prachtige kleur , gaat bij alles , ...
+1.0	1.95	ik zou me geen beter kledingstuk kunnen wensen voor tijdens het frisse voorjaar !
+
+1.0	1.4	Wat een fijne service biedt Whiskered friends !
+1.0	1.766666666666	Toen ik op een vakantie ging , wou ik mijn lieve Minnoes liever niet de hele tijd alleen thuislaten .
+1.0	0.3	Ik heb meerdere kattenopvangen bezocht , maar deze stak er zeker bovenuit !
+1.0	2.033333333333	De lieve eigenares heeft echt een hart voor katten , en mijn Minnoesje was helemaal ontspannen toen ik haar twee weken later kwam oppikken .
+1.0	1.3	Zeker een aanrader !
+
+1.0	0.6000000000000001	De dagschotel van deze week was niet heerlijk en de linzensalade was een echt ontdekking .
+
+1.0	2.55	Jullie hebben mij de moed gegeven om over mij gevoelens te praten met mijn ouders en sindsdien voel ik me stukken beter .
+
+1.0	0.8	Ik ben net terug van een citytrip naar New York met Diabeating Travels en het was zonder twijfel de beste reis die ik ooit heb gedaan .
+1.0	0.6	Ik was eerst nogal zenuwachtig , omdat ik niemand kende , maar eigenlijk was dat voor iedereen zo en de sfeer was vanaf dag één top !
+1.0	2.8	Ik heb echt leuke mensen leren kennen , we hebben supertoffe avonden beleefd en ik hoefde me op geen enkel moment zorgen te maken over mijn ziekte .
+1.0	1.25	We hebben met een aantal meisjes zelfs al afgesproken om ook de reis naar Berlijn samen te doen .
+
